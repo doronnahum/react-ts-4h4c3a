@@ -1,3 +1,3 @@
-# react-ts-4h4c3a
+# Material-UI with Next.js Hooks and Typescript example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-4h4c3a)
+Based on [material-ui-nextjs-hooks-typescript](https://github.com/virzak/material-ui-nextjs-hooks-typescript)
